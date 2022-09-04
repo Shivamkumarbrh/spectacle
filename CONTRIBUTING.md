@@ -68,6 +68,7 @@ $ node packages/create-spectacle/bin/cli.js -h
 These run appropriate file watchers, so you can just start developing source files and wait for the various dev servers to pick up the new changes.
 
 ### Build and checks
+### This comment just a prcatice nothing else.
 
 Our task system mostly takes care of all task dependencies and things you need. When you first clone this repo or a new branch, run:
 
